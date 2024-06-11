@@ -1,0 +1,1 @@
+Todos os direitos reservados a Qualifacti. Para conhecer um pouco sobre a Qualifacti e seus cursos acesse: https://qualifacti.facti.com.br/
