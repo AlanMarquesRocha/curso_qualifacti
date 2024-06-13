@@ -34,4 +34,4 @@ Essa segmentação permite uma exploração aprofundada e especializada nas dive
 - VC aplicada ao reconhecimento e sintetização de voz.
 
 ---
-Todos os direitos reservados à ``Qualifacti``. Para conhecer um pouco sobre a ``Qualifacti`` e seus cursos acesse: https://qualifacti.facti.com.br/
+Todos os direitos reservados à ``Qualifacti``. Para conhecer um pouco sobre a ``Qualifacti`` e seus cursos acesse: **https://qualifacti.facti.com.br/**
